@@ -1,0 +1,7 @@
+build
+*.root
+*.list
+test*
+core
+analysisDST
+app
